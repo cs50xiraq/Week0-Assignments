@@ -1,12 +1,11 @@
 # Week0-Assignments
-Please:
-
-1. fork the repository with the fork button on the up right corner
-2. clone the forked repo with the following command `git clone {URL to your cloned repo}` then `cd` into the directory
-3. add assignment files to the cloned repo
-4. add all your files to the repo with this command `git add *`
-5. commit your work `git commit -m "week0 assignment solution by {your name}`
-6. push your work with the following command `git push`
-7. create a pull request 
-
-We will announce a winner, the winner's answer will be merged in the master branch :)
+Here's a brief discription about "STARSET" :
+Starset is a simple game of a lost spaceship tries to find its way but entering into infinite wave of space rocks.
+The player can control the spaceship by keyboad's arrows with infinite amount of bullets.
+The player has 3 lives .. which decreases by hitting "touching" a rock.
+The game ends when the players lose all of their lives .
+I sincerely apologize if there is bugs found by you playing the game ; I have tried it multiple time and it ended successfully .
+I had fun of this experience trying for the first time to complete a full project .
+I think you will find the blocks of code a little bit messy ; I do not really know how to handle tiding the graphical codes 
+pretty well. I really hope this is not a point against my work .
+Thank you for your time .
